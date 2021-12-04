@@ -1,0 +1,23 @@
+<! DOCTYPE html>
+<html lang="pt-br">
+<cabeça>
+    <título> recuperação </título>
+    <meta charset="UTF-8">
+
+    <roteiro>
+
+        var dia = prompt("digite um dia");
+        var mês = prompt("digite um mês");
+        var ano = prompt("digite um ano");
+
+        alerta ("o dia que você digitalou foi: " + dia);
+        alerta ("o mês que você digitalou foi: " + mês);
+        alerta ("o ano que você digitalou foi: " + ano);
+        alerta ("a dados que formam foi: " + dia + " - " +  mês + " - " + ano);
+        
+    </roteiro>
+
+</cabeça>
+<corpo>
+</corpo>
+</html>
